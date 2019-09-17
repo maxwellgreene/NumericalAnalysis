@@ -1,21 +1,17 @@
-function RootbyBisection = bisection(a, b, Tol, fp)
-clear all
-clc
+function p = bisection(a, b, Tol, fp)
 Tol = 1e-10;
-a = 0; b = 3;
-fp = 2;
-while abs(fp) > Tol
-    fa = a^3 - 3*a - 1;
-    fb = b^3 - 3*b - 1;
+a = 0; b = 3; p = (a+b)/2;
+while abs(f(p)) > Tol
     p = (a+b)/2;
-    fp = (p^3 - 3*p - 1);
-    pd = fa*fp;
-    [fa,fb,fp,pd];
-    if pd>0
+    if f(a)*f(p)>0
         a=p;
-    else b=p;
-        [pd,a,b];
+    else
+        b=p;
     end
 end
-fprintf('%16s %9.7f \n %2s %e \n', 'Root = ', p, 'Error = ',abs(fp));
+fprintf('%16s %9.7f \n %2s %e \n', 'Root = ', p, 'Error = ',abs(f(p)));
+end
+
+function f = f(x)
+    f = x^3-3*x-1;
 end
