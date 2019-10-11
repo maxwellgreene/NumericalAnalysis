@@ -1,4 +1,4 @@
-function I = inverse(A)
+function [I,U,L] = inverseUL(A)
    invA = inv(A)
    I = eye(length(A),length(A));
    
@@ -13,6 +13,15 @@ function I = inverse(A)
            end
        end
    end
+   
+   U = A
+   L = inv(I)
+  
+   disp("=================================")
+   disp("=================================")
+   disp("ANYTHING ABOVE THIS LINE IS UPPER")
+   disp("=================================")
+   disp("=================================")
 
    for j = 1:length(A)
        for i = 1:j

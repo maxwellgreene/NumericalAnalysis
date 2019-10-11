@@ -1,0 +1,16 @@
+function [f,xVal] = Newton(func,tol,xVal)
+
+f = double(func(xVal));
+syms func(x);
+
+    while (f > tol)
+        temp = @(x) diff(sym(func(x)))
+        xVal = xVal - func(xVal) / temp(xVal)
+        %disp(temp);
+        %disp(temp(20));
+        %disp(func(xVal));
+        disp("ayy lmao");
+        f = double(func(xVal));
+    end
+
+end

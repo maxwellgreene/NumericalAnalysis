@@ -1,0 +1,76 @@
+Var1,Substance,cm3_g_mol,A,K,MolecularWight
+Ar,"Argon",56.08,3.542,93.3,40
+He,"Helium",20.95,2.551,10.22,4
+Kr,"Krypton",61.62,3.655,178.9,94
+Ne,"Neon",28.3,2.82,32.8,20
+Xe,"Xenon",83.66,4.047,231,131
+Air,"Air",64.5,3.711,78.6,28
+AsH3,"Arsine",89.88,4.145,259.8,NaN
+BCl3,"Boron chloride",170.1,5.127,337.7,117
+BF3,"Boron fluoride",93.35,4.198,186.3,68
+B(OCH3)3,"Methyl borate",210.3,5.503,396.7,NaN
+Br2,"bromine",100.1,4.296,507.9,160
+CCl4,"Carbon tetrachloride",265.5,5.947,322.7,154
+CF4,"Carbon tetrafluoride",127.9,4.662,134,88
+CHCl3,"Chloroform",197.5,5.389,340.2,119
+CH2Cl2,"Methylene chloride",148.3,4.898,356.3,85
+CH3Br,"Methyl bromide",88.14,4.118,449.2,95
+CH3Cl,"Methyl chloride",92.31,4.182,350,50.5
+CH3OH,"Methanol",60.17,3.626,481.8,32
+CH4,"methane",66.98,3.758,148.6,16
+CO,"Carbon monoxide",63.41,3.69,91.7,28
+COS,"carbonyl sulfide",88.91,4.13,336,60
+CO2,"carbon dioxide",77.25,3.941,195.2,44
+CS2,"carbon disulfide",113.7,4.483,467,76
+C2H2,"Acetylene",82.79,4.033,231.8,26
+C2H4,"ethylene",91.06,4.163,224.7,28
+C2H6,"ethane",110.7,4.443,215.7,30
+C2H5Cl,"ethyl chloride",148.3,4.898,300,61.5
+C2H5OH,"ethanol",117.3,4.53,362.6,46
+C2N2,"cyanogen",104.7,4.361,348.6,52
+CH3OCH3,"methyl ether",100.9,4.307,395,46
+CH2CHCH3,"Propylene",129.2,4.678,298.9,42
+CH3CCH,"Methylacetylene",136.2,4.761,251.8,46
+C3H6,"Cyclopropane",140.2,4.807,248.9,42
+C3H8,"Propane",169.2,5.118,237.1,44
+n-C3H7OH,"n-Propyl alcohol",118.8,4.549,576.7,69
+CH3COCH3,"Acetone",122.8,4.6,560.2,58
+CH3COOCH3,"Methyl acetate",151.8,4.936,469.8,74
+n-C4H10,"n-Butane",130,4.687,531.4,58
+iso-C4H10,"Isobutane",185.6,5.278,330.1,58
+C2H5OC2H5,"Ethyl ether",231,5.678,313.8,74
+CH3COOC2H5,"Ethyl acetate",178,5.205,521.3,88
+n-C5H12,"n-Pentane",244.2,5.784,341.1,72
+C(CH3)4,"2,2-Dimethylpropane",340.9,6.464,193.4,72
+C6H6,"Benzene",193.2,5.349,412.3,78
+C6H12,"Cyclohexane",298.2,6.182,297.1,84
+n-C6H14,"n-Hexane",265.7,5.949,399.3,86
+Cl2,"Chlorine",94.65,4.217,316,35.5
+F2,"Fluorine",47.75,3.357,112.6,38
+HBr,"Hydrogen bromide",47.58,3.353,449,81
+HCN,"Hydrogen cyanide",60.37,3.63,569.1,27
+HCl,"Hydrogen chloride",46.98,3.339,344.7,36.5
+HF,"Hydrogen fluoride",39.37,3.148,330,20
+HI,"Hydrogen iodide",94.24,4.211,288.7,128
+H2,"Hydrogen",28.51,2.827,59.7,2
+H2O,"Water",23.25,2.641,809.1,18
+H2O2,"Hydrogen peroxide",93.24,4.196,289.3,34
+H2S,"Hydrogen sulfide",60.02,3.623,301.1,34
+Hg,"Mercury",33.03,2.969,750,200.6
+HgBr2,"Mercuric bromide",165.5,5.08,686.2,360
+HgCl2,"Mercuric chloride",118.9,4.55,750,271.5
+HgI2,"Mercuric iodide",224.6,5.625,695.6,454.5
+I2,"Iodine",173.4,5.16,474.2,254
+NH3,"Ammonia",30.78,2.9,558.3,17
+NO,"Nitric oxide",53.74,3.492,116.7,30
+NOCl,"Nitrosyl chloride",87.75,4.112,395.3,64.5
+N2,"Nitrogen",69.14,3.798,71.4,28
+N2O,"Nitrous Oxide",70.8,3.828,232.4,44
+O2,"Oxygen",52.6,3.467,106.7,16
+PH3,"Phosphine",79.63,3.981,251.5,34
+SF6,"Sulfur hexafluoride",170.2,5.128,222.1,146
+SO2,"Sulfur dioxide",87.75,4.112,335.4,64
+SiF4,"Silicon tetrafluoride",146.7,4.88,171.9,104
+SiH4,"Silicon hydride",85.97,4.084,207.6,32
+SnBr4,"Stannic bromide",329,6.388,563.7,NaN
+UF6,"Uranium hexafluoride",268.1,5.967,236.8,352
