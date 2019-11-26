@@ -26,7 +26,7 @@ plot(tx,yx,t,y(:,1));
 
 optFunc = @(input) errorFunction(input(1),input(2));
 
-min = optimize(optFunc,[8,1.25]);
+min = optimize(optFunc,[0,0]);
 min
 
 function dydt = odefunc(t,z,c,d)
